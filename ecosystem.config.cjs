@@ -20,10 +20,10 @@ module.exports = {
       env:{
         PORT:8082
       },
-      // exec_mode:'cluster',
-      // instances:4,
-      // node_args:"--harmony",
-      watch: true
+      exec_mode:'cluster',
+      instances:4,
+      node_args:"--harmony"//,
+      // watch: true
     }
   ]
 }
