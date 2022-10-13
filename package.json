@@ -1,0 +1,24 @@
+{
+  "name": "proxyinverso-nginx",
+  "version": "1.0.0",
+  "description": "ProxyInverso-NGINX",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusRamirezGamarra/ProxyInverso-NGINX.git"
+  },
+  "keywords": [],
+  "author": "Jesus Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusRamirezGamarra/ProxyInverso-NGINX/issues"
+  },
+  "homepage": "https://github.com/JesusRamirezGamarra/ProxyInverso-NGINX#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
